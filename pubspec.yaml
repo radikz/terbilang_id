@@ -1,7 +1,7 @@
 name: terbilang_id
 description: The package is just simply turn numbers to words
 version: 0.1.0
-homepage: https://github.com/radikz/terbilang
+homepage: https://github.com/radikz/terbilang_id
 
 environment:
   sdk: ">=2.16.1 <3.0.0"
